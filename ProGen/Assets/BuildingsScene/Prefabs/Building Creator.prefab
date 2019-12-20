@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3367393112047649756
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3367393112047649730}
+  - component: {fileID: 3367393112047649729}
+  m_Layer: 0
+  m_Name: Building Creator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3367393112047649730
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3367393112047649756}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3367393112047649729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3367393112047649756}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34cdfdeb274fa6d4fbf38954a02b2ad7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minPieces: 2
+  maxPieces: 7
+  baseParts:
+  - {fileID: 6418404276608166849, guid: 9ba339f6973b3ef4dbae4d7137b0417a, type: 3}
+  - {fileID: 4407595440375702537, guid: 65572825645edbd4eb3fe6f021c77188, type: 3}
+  - {fileID: 8642057722421293131, guid: 57395df89c528d246b47da0206234e44, type: 3}
+  - {fileID: 5221792250655604234, guid: 3fda1bd9491356a4c9bb80ee48eea977, type: 3}
+  middleParts:
+  - {fileID: 970194406420502594, guid: 1107cc245844e084abfbc7f40e403e38, type: 3}
+  - {fileID: 5425905516510391984, guid: 3ce5bfa2309ed314ab3c2328062d9a74, type: 3}
+  - {fileID: 150919671155391607, guid: a1abe9328695b20429bc3af31dc090a7, type: 3}
+  - {fileID: 5273151795655949491, guid: caa67ab77096e474e9c9ef2feb34edf9, type: 3}
+  topParts:
+  - {fileID: 4058997110326543331, guid: 6e2241ac65e4a6440977bc10d8110819, type: 3}
+  - {fileID: 6517937855384966794, guid: ef9595b9341c5aa4891b06402746bae3, type: 3}
+  - {fileID: 416060718112509788, guid: cc9688a5a08e5a34cab4c55beb2912e3, type: 3}
+  - {fileID: 5869360741210267392, guid: ed0856c90e1a9024888a1ddf06f4574d, type: 3}
+  - {fileID: 4470455157652014865, guid: d2ec85512470631418d0a670164cc1e7, type: 3}
+  - {fileID: 4813170392459039716, guid: ea34c33f56f2ba34697a44c3a4e68ab3, type: 3}

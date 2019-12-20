@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44f9d6d8-2505-4714-86c2-c7eeed0a72da" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/RandomYRot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/ReloadScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ANewScene/Scripts/ChessBoardMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ANewScene/Scripts/PlaneMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/GeneratedObjectControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ANewScene/Scripts/LandscapeMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/PerlinGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/ButtonColour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ANewScene/Scripts/PyramidMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/BuildingGeneratorNoiseInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ANewScene/Scripts/CubeMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ANewScene/Scripts/PathMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/BuildingGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/AreaSpreadSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/NoOverlap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ANewScene/Scripts/MeshBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/RandomAlign.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/GridSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/RandomColMat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BuildingsScene/Scripts/DefRanRot.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/RandomPick.cs" />
+        <option value="$PROJECT_DIR$/Assets/RandomYRot.cs" />
+        <option value="$PROJECT_DIR$/Assets/AreaSpreadSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/SphereCastDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/RandomAlign.cs" />
+        <option value="$PROJECT_DIR$/Assets/RandomTileYScale.cs" />
+        <option value="$PROJECT_DIR$/Assets/NoOverlap.cs" />
+        <option value="$PROJECT_DIR$/Assets/ReloadScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/ANewScene/Scripts/MeshBuilder.cs" />
+        <option value="$PROJECT_DIR$/Assets/ANewScene/Scripts/PyramidMaker.cs" />
+        <option value="$PROJECT_DIR$/Assets/ANewScene/Scripts/ChessBoardMaker.cs" />
+        <option value="$PROJECT_DIR$/Assets/ANewScene/Scripts/PlaneMaker.cs" />
+        <option value="$PROJECT_DIR$/Assets/ANewScene/Scripts/CubeMaker.cs" />
+        <option value="$PROJECT_DIR$/Assets/ANewScene/Scripts/LandscapeMaker.cs" />
+        <option value="$PROJECT_DIR$/Assets/ANewScene/Scripts/PathMaker.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/BuildingGeneratorNoiseInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/PerlinGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/GeneratedObjectControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/GridSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/BuildingGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/DefinedRandomRot.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/RandomYRot.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/DefRanRot.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/NoOverlap.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/RandomColMat.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/ButtonColour.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/FreeMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildingsScene/Scripts/ReloadScene.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V75UOqZnrTqmqebPPLe4FBLkAi" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44f9d6d8-2505-4714-86c2-c7eeed0a72da" name="Default Changelist" comment="" />
+      <created>1576591309951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576591309951</updated>
+      <workItem from="1576591320605" duration="27198000" />
+      <workItem from="1576690573486" duration="3606000" />
+      <workItem from="1576702686210" duration="3367000" />
+      <workItem from="1576713422317" duration="497000" />
+      <workItem from="1576789985290" duration="4858000" />
+      <workItem from="1576866209594" duration="5844000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
